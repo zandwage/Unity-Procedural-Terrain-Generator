@@ -1,10 +1,14 @@
+**Unity Procedural Terrain Generator**
+------------------------------------------------------------------------------------------
 A procedural terrain generator for Unity using the MeshRenderer and MeshFilter components.
 
-Requirements:
+**Requirements:**
+-------------
   - Shader Graph
   - URP, HDRP, or Built-In (Unity 2021 and up)
 
-Features:
+**Features:**
+---------
   - Complete control over how terrain looks
   - A seed system for creating different terrains with the same settings
   - An animation curve and a height multiplier value for complete control over the height of the terrain
@@ -22,7 +26,8 @@ Features:
   - Well commented code base
   - Example scene included
 
-How To Set Up
+**How To Set Up:**
+-------------
   - Download the "TerrainGenerator" script along with the "TerrainGeneratorEditor" script and the shader graph shader and the terrain textures
   - Put the downloaded scripts and the shader and textures into your Unity project
   - If you don't have on, create an "Editor" folder in your "Assets" folder and move "TerrainGeneratorEditor" to it
