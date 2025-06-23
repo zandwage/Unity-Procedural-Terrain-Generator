@@ -39,5 +39,6 @@ A procedural terrain generator for Unity using the MeshRenderer and MeshFilter c
   - Thats it!
 
 Example Video:
+--------------
 https://github.com/user-attachments/assets/74582ce0-5348-4b9f-a9ea-0e8c1cecb0c8
 
