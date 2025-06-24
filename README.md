@@ -31,11 +31,8 @@ A procedural terrain generator for Unity using the MeshRenderer and MeshFilter c
 
 **How To Set Up:**
 -------------
-  - Download the "TerrainGenerator" script along with the "TerrainGeneratorEditor" script and the shader graph shader and the terrain textures
-  - Put the downloaded scripts and the shader and textures into your Unity project
-  - If you don't have on, create an "Editor" folder in your "Assets" folder and move "TerrainGeneratorEditor" to it
-  - In your Unity scene, create an empty GameObject and assign the "TerrainGenerator" script to it
-  - Assign the "TerrainMat" material into the "Mat" slot in the "TerrainGenerator" script
+  - Download the Unity package from the Resources section and import it into your Unity project
+  - Open up the example scene
   - Thats it!
 
 Example Video:
